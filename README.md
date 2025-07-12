@@ -55,6 +55,29 @@ Sou desenvolvedor front-end com paixão por transformar ideias em interfaces ele
 > "Mesmo nos dias difíceis, sigo acreditando que cada linha de código que escrevo pode transformar realidades — inclusive a minha."
 
 ## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Olá%2C+sou+o+Raylan!;Front-end+Developer+freelancer;Construindo+projetos+reais+e+responsivos!" alt="Typing SVG" />
+
+---
+
+## 🚀 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🧑‍💻 Dev Front-end focado em **projetos reais e intuitivos**
+- 🧠 Buscando aprender mais sobre **back-end** e banco de dados
+- ❤️ Amo transformar ideias em soluções visuais úteis e modernas
+
+---
+
+## 🛠️ Tecnologias
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📫 Contato
+- 📧 gleybson.raylan@gmail.com  
+- 🌐 Portfólio: [Seu site aqui]
 
 <!--
 **GleybsonRaylan/GleybsonRaylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
