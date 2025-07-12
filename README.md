@@ -30,8 +30,7 @@ Sou desenvolvedor front-end com paixão por transformar ideias em interfaces ele
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Site para Fisioterapeuta** | Criação completa (design + dev) para Dra. Gleyce Rayane, com foco em identidade profissional e captação de pacientes |
-| **Sistema de Finanças Simples** | Protótipo para empresa de água e gás, com controle de entradas e cálculo de faturamento diário |
+| **Site para Fisioterapeuta** | Criação completa (design + dev) para Dra. Vitoria Santos, com foco em identidade profissional e captação de pacientes |
 | **Landing pages profissionais** | Sites para divulgação de serviços com design personalizado e responsivo, com foco em conversão |
 
 ---
@@ -47,10 +46,9 @@ Sou desenvolvedor front-end com paixão por transformar ideias em interfaces ele
 
 ## 📫 Contato
 
-- Email: **gleybson.raylan@gmail.com**  
-- GitHub: [github.com/seu-usuario-aqui](https://github.com/seu-usuario-aqui)  
+- Email: **gleybsonraylan39@gmail.com**   
 - LinkedIn: (adicione aqui se tiver)  
-- Instagram profissional ou portfólio: (adicione aqui também se desejar)
+- Instagram profissional ou portfólio: (https://www.instagram.com/gleybson_ferreiira/)
 
 ---
 
