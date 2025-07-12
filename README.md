@@ -40,8 +40,8 @@ Sou desenvolvedor front-end com foco em interfaces modernas, responsivas e com b
 
 ## 📫 Contato
 - 📧 Email: **gleybsonraylan39@gmail.com**
-- 🔗 Instagram :https://www.instagram.com/gleybson_ferreiira/)
-- 🌐 Portfólio (em construção): **[[Meu Site]](https://gleybsonferreiradev.vercel.app/)**
+- 🔗 Instagram: https://www.instagram.com/gleybson_ferreiira/)
+- 🌐 Portfólio: **[[Meu Site]](https://gleybsonferreiradev.vercel.app/)**
 
 ---
 
